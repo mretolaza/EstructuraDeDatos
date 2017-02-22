@@ -7,7 +7,4 @@ public class Square implements Shape  {
 		 System.out.println("jeje");
 		
 	}
-	
-	
-
 }
